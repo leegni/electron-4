@@ -1,0 +1,14 @@
+{
+  "name": "electron-4",
+  "version": "1.0.0",
+  "description": "Electron",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Geunhee Lee",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^19.0.7"
+  }
+}
